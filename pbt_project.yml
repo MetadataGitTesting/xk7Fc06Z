@@ -1,6 +1,6 @@
 name: maisie.koepp
 description: modular
-version: 0.0.1-SNAPSHOT
+version: v1.3.0
 author: null
 language: scala
 buildSystem: ''
@@ -15,8 +15,8 @@ datasets: {}
 templates: {}
 jobs: {}
 gemContainer:
-  languageVersion: ''
-  gemLibsVersion: ''
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
   gems: {}
   dependencies: null
 functions:
