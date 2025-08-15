@@ -1,0 +1,50 @@
+name: maisie.koepp
+description: modular
+version: 0.0.1-SNAPSHOT
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: maisiekoepp
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-08-15 20:39:16'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-08-15 20:39:16'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-08-15T20:39:16.929851Z'
+  name: plibMaven
+  version: 8.13.0-SNAPSHOT
+  id: '2052686460'
+  createdAt: '2025-08-15T20:39:16.929851Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
